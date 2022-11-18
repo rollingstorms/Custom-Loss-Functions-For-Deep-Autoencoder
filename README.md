@@ -1,2 +1,1 @@
-# SongSimilarityWithAttention
-Using Attention Layers in a variational autoencoder for mel spectrograms
+Custom loss functions for a deep autoencoder
